@@ -1,0 +1,14 @@
+.card_frame{
+    height: 40pc;
+    width: 50pc;
+    background-color: aqua;
+    margin-left: 20%;
+    margin-top: 3%;
+
+}
+.card_head{
+    font-weight: 500;
+    font-size: 2pc;
+    margin-left: 40%;
+    margin-top: 10%;
+}
