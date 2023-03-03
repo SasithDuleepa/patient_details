@@ -8,10 +8,10 @@ import Doctors from "./pages/doctors";
 import Channels from "./pages/channels";
 
 import Navibar from "./components/navbar";
-
+import './App.css'
 function App() {
   return (
-    <div>
+    <div className="App">
       <Navibar/>
       <Router>
         <Switch>
